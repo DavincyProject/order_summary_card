@@ -186,4 +186,9 @@ body {
         margin-top: 25px;
         margin-bottom: 25px;
     }
+
+    .annual-left h1 {
+    margin: 0;
+    font-size: 15px;
+    }
 }
