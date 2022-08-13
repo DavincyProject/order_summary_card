@@ -174,4 +174,21 @@ body {
         width: 90%;
         height: 90%;
     }
+
+    .main-content h1 {
+        font-size: 25px;
+        margin-top: 25px;
+        margin-bottom: 25px;
+    }
+
+    .main-content p {
+        font-size: 16px;
+        margin-top: 25px;
+        margin-bottom: 25px;
+    }
+
+    .price-holder {
+        margin-bottom: 30px;
+    }
+
 }
