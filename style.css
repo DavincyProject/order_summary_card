@@ -177,18 +177,23 @@ body {
 
     .main-content h1 {
         font-size: 25px;
-        margin-top: 20px;
-        margin-bottom: 20px;
+        margin-top: 10px;
+        margin-bottom: 10px;
     }
 
     .main-content p {
         font-size: 16px;
-        margin-top: 20px;
-        margin-bottom: 20px;
+        margin-top: 10px;
+        margin-bottom: 10px;
     }
 
     .annual-left h1 {
     margin: 0;
+    margin-left: 10px;
     font-size: 15px;
+    }
+
+    .currency {
+        font-size: 13px;
     }
 }
